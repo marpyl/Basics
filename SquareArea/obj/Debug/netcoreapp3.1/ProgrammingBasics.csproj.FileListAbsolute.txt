@@ -1,0 +1,3 @@
+C:\Users\Marpyl\source\repos\ProgrammingBasics\Basics\SquareArea\obj\Debug\netcoreapp3.1\ProgrammingBasics.csprojAssemblyReference.cache
+C:\Users\Marpyl\source\repos\ProgrammingBasics\Basics\SquareArea\obj\Debug\netcoreapp3.1\ProgrammingBasics.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\ProgrammingBasics\Basics\SquareArea\obj\Debug\netcoreapp3.1\ProgrammingBasics.AssemblyInfo.cs

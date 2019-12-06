@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marpyl\\source\\repos\\ProgrammingBasics\\ProgrammingBasics.csproj",
-      "projectName": "ProgrammingBasics",
-      "projectPath": "C:\\Users\\Marpyl\\source\\repos\\ProgrammingBasics\\ProgrammingBasics.csproj",
+      "projectUniqueName": "C:\\Users\\Marpyl\\source\\repos\\ProgrammingBasics\\Basics\\SquareArea\\Square.csproj",
+      "projectName": "Square",
+      "projectPath": "C:\\Users\\Marpyl\\source\\repos\\ProgrammingBasics\\Basics\\SquareArea\\Square.csproj",
       "packagesPath": "C:\\Users\\Marpyl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marpyl\\source\\repos\\ProgrammingBasics\\obj\\",
+      "outputPath": "C:\\Users\\Marpyl\\source\\repos\\ProgrammingBasics\\Basics\\SquareArea\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
