@@ -1,0 +1,10 @@
+C:\Users\Marpyl\source\repos\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.exe
+C:\Users\Marpyl\source\repos\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.deps.json
+C:\Users\Marpyl\source\repos\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.runtimeconfig.json
+C:\Users\Marpyl\source\repos\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.dll
+C:\Users\Marpyl\source\repos\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.pdb
+C:\Users\Marpyl\source\repos\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.dll
+C:\Users\Marpyl\source\repos\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.pdb

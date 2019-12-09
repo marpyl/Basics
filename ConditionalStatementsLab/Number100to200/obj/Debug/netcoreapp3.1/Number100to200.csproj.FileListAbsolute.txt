@@ -1,0 +1,10 @@
+C:\Users\Marpyl\source\repos\Number100to200\bin\Debug\netcoreapp3.1\Number100to200.exe
+C:\Users\Marpyl\source\repos\Number100to200\bin\Debug\netcoreapp3.1\Number100to200.deps.json
+C:\Users\Marpyl\source\repos\Number100to200\bin\Debug\netcoreapp3.1\Number100to200.runtimeconfig.json
+C:\Users\Marpyl\source\repos\Number100to200\bin\Debug\netcoreapp3.1\Number100to200.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\Number100to200\bin\Debug\netcoreapp3.1\Number100to200.dll
+C:\Users\Marpyl\source\repos\Number100to200\bin\Debug\netcoreapp3.1\Number100to200.pdb
+C:\Users\Marpyl\source\repos\Number100to200\obj\Debug\netcoreapp3.1\Number100to200.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\Number100to200\obj\Debug\netcoreapp3.1\Number100to200.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\Number100to200\obj\Debug\netcoreapp3.1\Number100to200.dll
+C:\Users\Marpyl\source\repos\Number100to200\obj\Debug\netcoreapp3.1\Number100to200.pdb
