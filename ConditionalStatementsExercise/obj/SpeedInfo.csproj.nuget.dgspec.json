@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marpyl\\source\\repos\\ProgrammingBasics\\Basics\\ConditionalStatementsLab\\ToyShop\\ToyShop.csproj": {}
+    "C:\\Users\\Marpyl\\source\\repos\\ConditionalStatementsExercise\\SpeedInfo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marpyl\\source\\repos\\ProgrammingBasics\\Basics\\ConditionalStatementsLab\\ToyShop\\ToyShop.csproj": {
+    "C:\\Users\\Marpyl\\source\\repos\\ConditionalStatementsExercise\\SpeedInfo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marpyl\\source\\repos\\ProgrammingBasics\\Basics\\ConditionalStatementsLab\\ToyShop\\ToyShop.csproj",
-        "projectName": "ToyShop",
-        "projectPath": "C:\\Users\\Marpyl\\source\\repos\\ProgrammingBasics\\Basics\\ConditionalStatementsLab\\ToyShop\\ToyShop.csproj",
+        "projectUniqueName": "C:\\Users\\Marpyl\\source\\repos\\ConditionalStatementsExercise\\SpeedInfo.csproj",
+        "projectName": "SpeedInfo",
+        "projectPath": "C:\\Users\\Marpyl\\source\\repos\\ConditionalStatementsExercise\\SpeedInfo.csproj",
         "packagesPath": "C:\\Users\\Marpyl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marpyl\\source\\repos\\ProgrammingBasics\\Basics\\ConditionalStatementsLab\\ToyShop\\obj\\",
+        "outputPath": "C:\\Users\\Marpyl\\source\\repos\\ConditionalStatementsExercise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

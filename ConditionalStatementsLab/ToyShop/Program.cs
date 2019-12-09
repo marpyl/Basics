@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace ConsoleApp5
 {
@@ -34,25 +38,25 @@ namespace ConsoleApp5
 
             if (sumToy >= 50 && sumAbs >= ex)
             {
-                Console.WriteLine($"Yes! {exsotstapka:F2} lv left.");
+                Console.WriteLine("Yes! " + Math.Round(exsotstapka, 2) + "lv left.");
             }
 
             else if (sumToy >= 50 && sumAbs <= ex)
             {
 
-                Console.WriteLine($"Not enough money! {exsotstapka:F2} lv needed.");
+                Console.WriteLine("Not enough money! " + Math.Round(exsotstapka, 2) + "lv needed.");
             }
 
             if (sumToy <= 50 && sumAbsbez >= ex)
             {
 
-                Console.WriteLine($"Yes! {exsotstapka:F2} lv left.");
+                Console.WriteLine("Yes! " + Math.Round(exbezotstapka, 2) + "lv left.");
 
             }
 
             else if (sumToy <= 50 && sumAbsbez <= ex)
             {
-                Console.WriteLine($"Not enough money! {exbezotstapka:F2} lv needed.");
+                Console.WriteLine("Not enough money! " + Math.Round(exbezotstapka, 2) + " lv needed.");
 
             }
 
