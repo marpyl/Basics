@@ -1,0 +1,7 @@
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Division\bin\Debug\Division.exe.config
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Division\bin\Debug\Division.exe
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Division\bin\Debug\Division.pdb
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Division\obj\Debug\Division.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Division\obj\Debug\Division.exe
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Division\obj\Debug\Division.pdb
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Division\obj\Debug\Division.csprojAssemblyReference.cache
