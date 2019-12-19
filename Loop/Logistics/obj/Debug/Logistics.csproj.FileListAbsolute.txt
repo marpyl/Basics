@@ -1,0 +1,7 @@
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Logistics\bin\Debug\Logistics.exe.config
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Logistics\bin\Debug\Logistics.exe
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Logistics\bin\Debug\Logistics.pdb
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Logistics\obj\Debug\Logistics.csprojAssemblyReference.cache
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Logistics\obj\Debug\Logistics.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Logistics\obj\Debug\Logistics.exe
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Logistics\obj\Debug\Logistics.pdb
