@@ -1,0 +1,6 @@
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Hospital\bin\Debug\Hospital.exe
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Hospital\bin\Debug\Hospital.pdb
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Hospital\obj\Debug\Hospital.exe
+C:\Users\Marpyl\source\repos\Loops - Exam Problems\Hospital\obj\Debug\Hospital.pdb
