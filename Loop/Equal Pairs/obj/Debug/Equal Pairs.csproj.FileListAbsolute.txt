@@ -1,0 +1,7 @@
+C:\Users\Marpyl\source\repos\Loops\Equal Pairs\bin\Debug\Equal Pairs.exe.config
+C:\Users\Marpyl\source\repos\Loops\Equal Pairs\bin\Debug\Equal Pairs.exe
+C:\Users\Marpyl\source\repos\Loops\Equal Pairs\bin\Debug\Equal Pairs.pdb
+C:\Users\Marpyl\source\repos\Loops\Equal Pairs\obj\Debug\Equal Pairs.csprojAssemblyReference.cache
+C:\Users\Marpyl\source\repos\Loops\Equal Pairs\obj\Debug\Equal Pairs.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\Loops\Equal Pairs\obj\Debug\Equal Pairs.exe
+C:\Users\Marpyl\source\repos\Loops\Equal Pairs\obj\Debug\Equal Pairs.pdb
