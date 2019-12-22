@@ -1,0 +1,6 @@
+C:\Users\Marpyl\source\repos\Loops\Latin letters\obj\Debug\Latin letters.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\Loops\Latin letters\bin\Debug\Latin letters.exe.config
+C:\Users\Marpyl\source\repos\Loops\Latin letters\bin\Debug\Latin letters.exe
+C:\Users\Marpyl\source\repos\Loops\Latin letters\bin\Debug\Latin letters.pdb
+C:\Users\Marpyl\source\repos\Loops\Latin letters\obj\Debug\Latin letters.exe
+C:\Users\Marpyl\source\repos\Loops\Latin letters\obj\Debug\Latin letters.pdb
