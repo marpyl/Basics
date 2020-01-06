@@ -1,0 +1,6 @@
+C:\Users\Marpyl\source\repos\Loops\Max Number\bin\Debug\Max Number.exe.config
+C:\Users\Marpyl\source\repos\Loops\Max Number\bin\Debug\Max Number.exe
+C:\Users\Marpyl\source\repos\Loops\Max Number\bin\Debug\Max Number.pdb
+C:\Users\Marpyl\source\repos\Loops\Max Number\obj\Debug\Max Number.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\Loops\Max Number\obj\Debug\Max Number.exe
+C:\Users\Marpyl\source\repos\Loops\Max Number\obj\Debug\Max Number.pdb
