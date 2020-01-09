@@ -1,0 +1,6 @@
+C:\Users\Marpyl\source\repos\Loops\Sum numbers\bin\Debug\Sum numbers.exe.config
+C:\Users\Marpyl\source\repos\Loops\Sum numbers\bin\Debug\Sum numbers.exe
+C:\Users\Marpyl\source\repos\Loops\Sum numbers\bin\Debug\Sum numbers.pdb
+C:\Users\Marpyl\source\repos\Loops\Sum numbers\obj\Debug\Sum numbers.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\Loops\Sum numbers\obj\Debug\Sum numbers.exe
+C:\Users\Marpyl\source\repos\Loops\Sum numbers\obj\Debug\Sum numbers.pdb
