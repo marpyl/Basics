@@ -1,0 +1,11 @@
+C:\Users\Marpyl\source\repos\Lists\BombNumbersEx5\bin\Debug\netcoreapp2.1\BombNumbersEx5.deps.json
+C:\Users\Marpyl\source\repos\Lists\BombNumbersEx5\bin\Debug\netcoreapp2.1\BombNumbersEx5.runtimeconfig.json
+C:\Users\Marpyl\source\repos\Lists\BombNumbersEx5\bin\Debug\netcoreapp2.1\BombNumbersEx5.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\Lists\BombNumbersEx5\bin\Debug\netcoreapp2.1\BombNumbersEx5.dll
+C:\Users\Marpyl\source\repos\Lists\BombNumbersEx5\bin\Debug\netcoreapp2.1\BombNumbersEx5.pdb
+C:\Users\Marpyl\source\repos\Lists\BombNumbersEx5\obj\Debug\netcoreapp2.1\BombNumbersEx5.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\Lists\BombNumbersEx5\obj\Debug\netcoreapp2.1\BombNumbersEx5.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\Lists\BombNumbersEx5\obj\Debug\netcoreapp2.1\BombNumbersEx5.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\Lists\BombNumbersEx5\obj\Debug\netcoreapp2.1\BombNumbersEx5.dll
+C:\Users\Marpyl\source\repos\Lists\BombNumbersEx5\obj\Debug\netcoreapp2.1\BombNumbersEx5.pdb
+C:\Users\Marpyl\source\repos\Lists\BombNumbersEx5\obj\Debug\netcoreapp2.1\BombNumbersEx5.csprojAssemblyReference.cache
