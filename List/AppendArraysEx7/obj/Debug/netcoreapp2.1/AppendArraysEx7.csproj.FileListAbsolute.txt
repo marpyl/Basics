@@ -1,0 +1,10 @@
+C:\Users\Marpyl\source\repos\Lists\AppendArraysEx7\bin\Debug\netcoreapp2.1\AppendArraysEx7.deps.json
+C:\Users\Marpyl\source\repos\Lists\AppendArraysEx7\bin\Debug\netcoreapp2.1\AppendArraysEx7.runtimeconfig.json
+C:\Users\Marpyl\source\repos\Lists\AppendArraysEx7\bin\Debug\netcoreapp2.1\AppendArraysEx7.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\Lists\AppendArraysEx7\bin\Debug\netcoreapp2.1\AppendArraysEx7.dll
+C:\Users\Marpyl\source\repos\Lists\AppendArraysEx7\bin\Debug\netcoreapp2.1\AppendArraysEx7.pdb
+C:\Users\Marpyl\source\repos\Lists\AppendArraysEx7\obj\Debug\netcoreapp2.1\AppendArraysEx7.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\Lists\AppendArraysEx7\obj\Debug\netcoreapp2.1\AppendArraysEx7.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\Lists\AppendArraysEx7\obj\Debug\netcoreapp2.1\AppendArraysEx7.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\Lists\AppendArraysEx7\obj\Debug\netcoreapp2.1\AppendArraysEx7.dll
+C:\Users\Marpyl\source\repos\Lists\AppendArraysEx7\obj\Debug\netcoreapp2.1\AppendArraysEx7.pdb
