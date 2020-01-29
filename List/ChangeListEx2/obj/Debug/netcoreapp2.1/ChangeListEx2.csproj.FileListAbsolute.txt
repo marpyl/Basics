@@ -1,0 +1,10 @@
+C:\Users\Marpyl\source\repos\Lists\ChangeListEx2\bin\Debug\netcoreapp2.1\ChangeListEx2.deps.json
+C:\Users\Marpyl\source\repos\Lists\ChangeListEx2\bin\Debug\netcoreapp2.1\ChangeListEx2.runtimeconfig.json
+C:\Users\Marpyl\source\repos\Lists\ChangeListEx2\bin\Debug\netcoreapp2.1\ChangeListEx2.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\Lists\ChangeListEx2\bin\Debug\netcoreapp2.1\ChangeListEx2.dll
+C:\Users\Marpyl\source\repos\Lists\ChangeListEx2\bin\Debug\netcoreapp2.1\ChangeListEx2.pdb
+C:\Users\Marpyl\source\repos\Lists\ChangeListEx2\obj\Debug\netcoreapp2.1\ChangeListEx2.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\Lists\ChangeListEx2\obj\Debug\netcoreapp2.1\ChangeListEx2.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\Lists\ChangeListEx2\obj\Debug\netcoreapp2.1\ChangeListEx2.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\Lists\ChangeListEx2\obj\Debug\netcoreapp2.1\ChangeListEx2.dll
+C:\Users\Marpyl\source\repos\Lists\ChangeListEx2\obj\Debug\netcoreapp2.1\ChangeListEx2.pdb
