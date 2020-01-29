@@ -1,0 +1,10 @@
+C:\Users\Marpyl\source\repos\Lists\CardsGameEx6\bin\Debug\netcoreapp2.1\CardsGameEx6.deps.json
+C:\Users\Marpyl\source\repos\Lists\CardsGameEx6\bin\Debug\netcoreapp2.1\CardsGameEx6.runtimeconfig.json
+C:\Users\Marpyl\source\repos\Lists\CardsGameEx6\bin\Debug\netcoreapp2.1\CardsGameEx6.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\Lists\CardsGameEx6\bin\Debug\netcoreapp2.1\CardsGameEx6.dll
+C:\Users\Marpyl\source\repos\Lists\CardsGameEx6\bin\Debug\netcoreapp2.1\CardsGameEx6.pdb
+C:\Users\Marpyl\source\repos\Lists\CardsGameEx6\obj\Debug\netcoreapp2.1\CardsGameEx6.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\Lists\CardsGameEx6\obj\Debug\netcoreapp2.1\CardsGameEx6.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\Lists\CardsGameEx6\obj\Debug\netcoreapp2.1\CardsGameEx6.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\Lists\CardsGameEx6\obj\Debug\netcoreapp2.1\CardsGameEx6.dll
+C:\Users\Marpyl\source\repos\Lists\CardsGameEx6\obj\Debug\netcoreapp2.1\CardsGameEx6.pdb
