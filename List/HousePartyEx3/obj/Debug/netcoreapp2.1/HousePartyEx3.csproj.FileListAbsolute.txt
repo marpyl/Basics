@@ -1,0 +1,11 @@
+C:\Users\Marpyl\source\repos\Lists\HousePartyEx3\bin\Debug\netcoreapp2.1\HousePartyEx3.deps.json
+C:\Users\Marpyl\source\repos\Lists\HousePartyEx3\bin\Debug\netcoreapp2.1\HousePartyEx3.runtimeconfig.json
+C:\Users\Marpyl\source\repos\Lists\HousePartyEx3\bin\Debug\netcoreapp2.1\HousePartyEx3.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\Lists\HousePartyEx3\bin\Debug\netcoreapp2.1\HousePartyEx3.dll
+C:\Users\Marpyl\source\repos\Lists\HousePartyEx3\bin\Debug\netcoreapp2.1\HousePartyEx3.pdb
+C:\Users\Marpyl\source\repos\Lists\HousePartyEx3\obj\Debug\netcoreapp2.1\HousePartyEx3.csprojAssemblyReference.cache
+C:\Users\Marpyl\source\repos\Lists\HousePartyEx3\obj\Debug\netcoreapp2.1\HousePartyEx3.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\Lists\HousePartyEx3\obj\Debug\netcoreapp2.1\HousePartyEx3.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\Lists\HousePartyEx3\obj\Debug\netcoreapp2.1\HousePartyEx3.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\Lists\HousePartyEx3\obj\Debug\netcoreapp2.1\HousePartyEx3.dll
+C:\Users\Marpyl\source\repos\Lists\HousePartyEx3\obj\Debug\netcoreapp2.1\HousePartyEx3.pdb
