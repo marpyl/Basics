@@ -1,0 +1,10 @@
+C:\Users\Marpyl\source\repos\Lists\ListOfProductsLab4\bin\Debug\netcoreapp2.1\ListOfProductsLab4.deps.json
+C:\Users\Marpyl\source\repos\Lists\ListOfProductsLab4\bin\Debug\netcoreapp2.1\ListOfProductsLab4.runtimeconfig.json
+C:\Users\Marpyl\source\repos\Lists\ListOfProductsLab4\bin\Debug\netcoreapp2.1\ListOfProductsLab4.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\Lists\ListOfProductsLab4\bin\Debug\netcoreapp2.1\ListOfProductsLab4.dll
+C:\Users\Marpyl\source\repos\Lists\ListOfProductsLab4\bin\Debug\netcoreapp2.1\ListOfProductsLab4.pdb
+C:\Users\Marpyl\source\repos\Lists\ListOfProductsLab4\obj\Debug\netcoreapp2.1\ListOfProductsLab4.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\Lists\ListOfProductsLab4\obj\Debug\netcoreapp2.1\ListOfProductsLab4.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\Lists\ListOfProductsLab4\obj\Debug\netcoreapp2.1\ListOfProductsLab4.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\Lists\ListOfProductsLab4\obj\Debug\netcoreapp2.1\ListOfProductsLab4.dll
+C:\Users\Marpyl\source\repos\Lists\ListOfProductsLab4\obj\Debug\netcoreapp2.1\ListOfProductsLab4.pdb
