@@ -1,0 +1,11 @@
+C:\Users\Marpyl\source\repos\Lists\ListManipulationsAdvancedLab7\bin\Debug\netcoreapp2.1\ListManipulationsAdvancedLab7.deps.json
+C:\Users\Marpyl\source\repos\Lists\ListManipulationsAdvancedLab7\bin\Debug\netcoreapp2.1\ListManipulationsAdvancedLab7.runtimeconfig.json
+C:\Users\Marpyl\source\repos\Lists\ListManipulationsAdvancedLab7\bin\Debug\netcoreapp2.1\ListManipulationsAdvancedLab7.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\Lists\ListManipulationsAdvancedLab7\bin\Debug\netcoreapp2.1\ListManipulationsAdvancedLab7.dll
+C:\Users\Marpyl\source\repos\Lists\ListManipulationsAdvancedLab7\bin\Debug\netcoreapp2.1\ListManipulationsAdvancedLab7.pdb
+C:\Users\Marpyl\source\repos\Lists\ListManipulationsAdvancedLab7\obj\Debug\netcoreapp2.1\ListManipulationsAdvancedLab7.csprojAssemblyReference.cache
+C:\Users\Marpyl\source\repos\Lists\ListManipulationsAdvancedLab7\obj\Debug\netcoreapp2.1\ListManipulationsAdvancedLab7.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\Lists\ListManipulationsAdvancedLab7\obj\Debug\netcoreapp2.1\ListManipulationsAdvancedLab7.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\Lists\ListManipulationsAdvancedLab7\obj\Debug\netcoreapp2.1\ListManipulationsAdvancedLab7.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\Lists\ListManipulationsAdvancedLab7\obj\Debug\netcoreapp2.1\ListManipulationsAdvancedLab7.dll
+C:\Users\Marpyl\source\repos\Lists\ListManipulationsAdvancedLab7\obj\Debug\netcoreapp2.1\ListManipulationsAdvancedLab7.pdb
