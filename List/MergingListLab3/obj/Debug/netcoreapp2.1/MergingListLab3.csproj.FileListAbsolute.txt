@@ -1,0 +1,10 @@
+C:\Users\Marpyl\source\repos\Lists\MergingListLab3\bin\Debug\netcoreapp2.1\MergingListLab3.deps.json
+C:\Users\Marpyl\source\repos\Lists\MergingListLab3\bin\Debug\netcoreapp2.1\MergingListLab3.runtimeconfig.json
+C:\Users\Marpyl\source\repos\Lists\MergingListLab3\bin\Debug\netcoreapp2.1\MergingListLab3.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\Lists\MergingListLab3\bin\Debug\netcoreapp2.1\MergingListLab3.dll
+C:\Users\Marpyl\source\repos\Lists\MergingListLab3\bin\Debug\netcoreapp2.1\MergingListLab3.pdb
+C:\Users\Marpyl\source\repos\Lists\MergingListLab3\obj\Debug\netcoreapp2.1\MergingListLab3.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\Lists\MergingListLab3\obj\Debug\netcoreapp2.1\MergingListLab3.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\Lists\MergingListLab3\obj\Debug\netcoreapp2.1\MergingListLab3.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\Lists\MergingListLab3\obj\Debug\netcoreapp2.1\MergingListLab3.dll
+C:\Users\Marpyl\source\repos\Lists\MergingListLab3\obj\Debug\netcoreapp2.1\MergingListLab3.pdb
