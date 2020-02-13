@@ -1,0 +1,11 @@
+C:\Users\Marpyl\source\repos\Lists\RemovingNegativesAndReverseLab5\bin\Debug\netcoreapp2.1\RemovingNegativesAndReverseLab5.deps.json
+C:\Users\Marpyl\source\repos\Lists\RemovingNegativesAndReverseLab5\bin\Debug\netcoreapp2.1\RemovingNegativesAndReverseLab5.runtimeconfig.json
+C:\Users\Marpyl\source\repos\Lists\RemovingNegativesAndReverseLab5\bin\Debug\netcoreapp2.1\RemovingNegativesAndReverseLab5.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\Lists\RemovingNegativesAndReverseLab5\bin\Debug\netcoreapp2.1\RemovingNegativesAndReverseLab5.dll
+C:\Users\Marpyl\source\repos\Lists\RemovingNegativesAndReverseLab5\bin\Debug\netcoreapp2.1\RemovingNegativesAndReverseLab5.pdb
+C:\Users\Marpyl\source\repos\Lists\RemovingNegativesAndReverseLab5\obj\Debug\netcoreapp2.1\RemovingNegativesAndReverseLab5.csprojAssemblyReference.cache
+C:\Users\Marpyl\source\repos\Lists\RemovingNegativesAndReverseLab5\obj\Debug\netcoreapp2.1\RemovingNegativesAndReverseLab5.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\Lists\RemovingNegativesAndReverseLab5\obj\Debug\netcoreapp2.1\RemovingNegativesAndReverseLab5.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\Lists\RemovingNegativesAndReverseLab5\obj\Debug\netcoreapp2.1\RemovingNegativesAndReverseLab5.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\Lists\RemovingNegativesAndReverseLab5\obj\Debug\netcoreapp2.1\RemovingNegativesAndReverseLab5.dll
+C:\Users\Marpyl\source\repos\Lists\RemovingNegativesAndReverseLab5\obj\Debug\netcoreapp2.1\RemovingNegativesAndReverseLab5.pdb
