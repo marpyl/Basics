@@ -1,0 +1,10 @@
+C:\Users\Marpyl\source\repos\Exam\FireWorkTest\bin\Debug\netcoreapp2.1\FireWorkTest.deps.json
+C:\Users\Marpyl\source\repos\Exam\FireWorkTest\bin\Debug\netcoreapp2.1\FireWorkTest.runtimeconfig.json
+C:\Users\Marpyl\source\repos\Exam\FireWorkTest\bin\Debug\netcoreapp2.1\FireWorkTest.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\Exam\FireWorkTest\bin\Debug\netcoreapp2.1\FireWorkTest.dll
+C:\Users\Marpyl\source\repos\Exam\FireWorkTest\bin\Debug\netcoreapp2.1\FireWorkTest.pdb
+C:\Users\Marpyl\source\repos\Exam\FireWorkTest\obj\Debug\netcoreapp2.1\FireWorkTest.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\Exam\FireWorkTest\obj\Debug\netcoreapp2.1\FireWorkTest.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\Exam\FireWorkTest\obj\Debug\netcoreapp2.1\FireWorkTest.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\Exam\FireWorkTest\obj\Debug\netcoreapp2.1\FireWorkTest.dll
+C:\Users\Marpyl\source\repos\Exam\FireWorkTest\obj\Debug\netcoreapp2.1\FireWorkTest.pdb
