@@ -1,0 +1,11 @@
+C:\Users\Marpyl\source\repos\Exam\TheFinalQuestEx3\bin\Debug\netcoreapp2.1\TheFinalQuestEx3.deps.json
+C:\Users\Marpyl\source\repos\Exam\TheFinalQuestEx3\bin\Debug\netcoreapp2.1\TheFinalQuestEx3.runtimeconfig.json
+C:\Users\Marpyl\source\repos\Exam\TheFinalQuestEx3\bin\Debug\netcoreapp2.1\TheFinalQuestEx3.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\Exam\TheFinalQuestEx3\bin\Debug\netcoreapp2.1\TheFinalQuestEx3.dll
+C:\Users\Marpyl\source\repos\Exam\TheFinalQuestEx3\bin\Debug\netcoreapp2.1\TheFinalQuestEx3.pdb
+C:\Users\Marpyl\source\repos\Exam\TheFinalQuestEx3\obj\Debug\netcoreapp2.1\TheFinalQuestEx3.csprojAssemblyReference.cache
+C:\Users\Marpyl\source\repos\Exam\TheFinalQuestEx3\obj\Debug\netcoreapp2.1\TheFinalQuestEx3.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\Exam\TheFinalQuestEx3\obj\Debug\netcoreapp2.1\TheFinalQuestEx3.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\Exam\TheFinalQuestEx3\obj\Debug\netcoreapp2.1\TheFinalQuestEx3.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\Exam\TheFinalQuestEx3\obj\Debug\netcoreapp2.1\TheFinalQuestEx3.dll
+C:\Users\Marpyl\source\repos\Exam\TheFinalQuestEx3\obj\Debug\netcoreapp2.1\TheFinalQuestEx3.pdb
