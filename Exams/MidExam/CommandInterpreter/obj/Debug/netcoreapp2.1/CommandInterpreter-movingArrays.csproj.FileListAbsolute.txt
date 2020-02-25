@@ -1,0 +1,10 @@
+C:\Users\Marpyl\source\repos\MidExamPreparation\CommandInterpreter\bin\Debug\netcoreapp2.1\CommandInterpreter-movingArrays.deps.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\CommandInterpreter\bin\Debug\netcoreapp2.1\CommandInterpreter-movingArrays.runtimeconfig.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\CommandInterpreter\bin\Debug\netcoreapp2.1\CommandInterpreter-movingArrays.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\CommandInterpreter\bin\Debug\netcoreapp2.1\CommandInterpreter-movingArrays.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\CommandInterpreter\bin\Debug\netcoreapp2.1\CommandInterpreter-movingArrays.pdb
+C:\Users\Marpyl\source\repos\MidExamPreparation\CommandInterpreter\obj\Debug\netcoreapp2.1\CommandInterpreter-movingArrays.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\CommandInterpreter\obj\Debug\netcoreapp2.1\CommandInterpreter-movingArrays.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\CommandInterpreter\obj\Debug\netcoreapp2.1\CommandInterpreter-movingArrays.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\MidExamPreparation\CommandInterpreter\obj\Debug\netcoreapp2.1\CommandInterpreter-movingArrays.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\CommandInterpreter\obj\Debug\netcoreapp2.1\CommandInterpreter-movingArrays.pdb
