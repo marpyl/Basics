@@ -1,0 +1,10 @@
+C:\Users\Marpyl\source\repos\MidExamPreparation\EncryptSortPrintArray\bin\Debug\netcoreapp2.1\EncryptSortPrintArray.deps.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\EncryptSortPrintArray\bin\Debug\netcoreapp2.1\EncryptSortPrintArray.runtimeconfig.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\EncryptSortPrintArray\bin\Debug\netcoreapp2.1\EncryptSortPrintArray.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\EncryptSortPrintArray\bin\Debug\netcoreapp2.1\EncryptSortPrintArray.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\EncryptSortPrintArray\bin\Debug\netcoreapp2.1\EncryptSortPrintArray.pdb
+C:\Users\Marpyl\source\repos\MidExamPreparation\EncryptSortPrintArray\obj\Debug\netcoreapp2.1\EncryptSortPrintArray.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\EncryptSortPrintArray\obj\Debug\netcoreapp2.1\EncryptSortPrintArray.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\EncryptSortPrintArray\obj\Debug\netcoreapp2.1\EncryptSortPrintArray.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\MidExamPreparation\EncryptSortPrintArray\obj\Debug\netcoreapp2.1\EncryptSortPrintArray.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\EncryptSortPrintArray\obj\Debug\netcoreapp2.1\EncryptSortPrintArray.pdb
