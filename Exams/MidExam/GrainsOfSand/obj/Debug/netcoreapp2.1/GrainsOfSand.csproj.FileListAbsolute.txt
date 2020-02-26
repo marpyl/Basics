@@ -1,0 +1,11 @@
+C:\Users\Marpyl\source\repos\MidExamPreparation\GrainsOfSand\bin\Debug\netcoreapp2.1\GrainsOfSand.deps.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\GrainsOfSand\bin\Debug\netcoreapp2.1\GrainsOfSand.runtimeconfig.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\GrainsOfSand\bin\Debug\netcoreapp2.1\GrainsOfSand.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\GrainsOfSand\bin\Debug\netcoreapp2.1\GrainsOfSand.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\GrainsOfSand\bin\Debug\netcoreapp2.1\GrainsOfSand.pdb
+C:\Users\Marpyl\source\repos\MidExamPreparation\GrainsOfSand\obj\Debug\netcoreapp2.1\GrainsOfSand.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\GrainsOfSand\obj\Debug\netcoreapp2.1\GrainsOfSand.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\GrainsOfSand\obj\Debug\netcoreapp2.1\GrainsOfSand.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\MidExamPreparation\GrainsOfSand\obj\Debug\netcoreapp2.1\GrainsOfSand.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\GrainsOfSand\obj\Debug\netcoreapp2.1\GrainsOfSand.pdb
+C:\Users\Marpyl\source\repos\MidExamPreparation\GrainsOfSand\obj\Debug\netcoreapp2.1\GrainsOfSand.csprojAssemblyReference.cache
