@@ -1,0 +1,11 @@
+C:\Users\Marpyl\source\repos\MidExamPreparation\Hogswatch\bin\Debug\netcoreapp2.1\Hogswatch.deps.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\Hogswatch\bin\Debug\netcoreapp2.1\Hogswatch.runtimeconfig.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\Hogswatch\bin\Debug\netcoreapp2.1\Hogswatch.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\Hogswatch\bin\Debug\netcoreapp2.1\Hogswatch.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\Hogswatch\bin\Debug\netcoreapp2.1\Hogswatch.pdb
+C:\Users\Marpyl\source\repos\MidExamPreparation\Hogswatch\obj\Debug\netcoreapp2.1\Hogswatch.csprojAssemblyReference.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\Hogswatch\obj\Debug\netcoreapp2.1\Hogswatch.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\Hogswatch\obj\Debug\netcoreapp2.1\Hogswatch.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\Hogswatch\obj\Debug\netcoreapp2.1\Hogswatch.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\MidExamPreparation\Hogswatch\obj\Debug\netcoreapp2.1\Hogswatch.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\Hogswatch\obj\Debug\netcoreapp2.1\Hogswatch.pdb
