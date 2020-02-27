@@ -1,0 +1,10 @@
+C:\Users\Marpyl\source\repos\MidExamPreparation\MemoryView\bin\Debug\netcoreapp2.1\MemoryView.deps.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\MemoryView\bin\Debug\netcoreapp2.1\MemoryView.runtimeconfig.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\MemoryView\bin\Debug\netcoreapp2.1\MemoryView.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\MemoryView\bin\Debug\netcoreapp2.1\MemoryView.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\MemoryView\bin\Debug\netcoreapp2.1\MemoryView.pdb
+C:\Users\Marpyl\source\repos\MidExamPreparation\MemoryView\obj\Debug\netcoreapp2.1\MemoryView.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\MemoryView\obj\Debug\netcoreapp2.1\MemoryView.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\MemoryView\obj\Debug\netcoreapp2.1\MemoryView.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\MidExamPreparation\MemoryView\obj\Debug\netcoreapp2.1\MemoryView.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\MemoryView\obj\Debug\netcoreapp2.1\MemoryView.pdb
