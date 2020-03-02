@@ -1,0 +1,10 @@
+C:\Users\Marpyl\source\repos\MidExamPreparation\MixedUpLists\bin\Debug\netcoreapp2.1\MixedUpLists.deps.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\MixedUpLists\bin\Debug\netcoreapp2.1\MixedUpLists.runtimeconfig.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\MixedUpLists\bin\Debug\netcoreapp2.1\MixedUpLists.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\MixedUpLists\bin\Debug\netcoreapp2.1\MixedUpLists.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\MixedUpLists\bin\Debug\netcoreapp2.1\MixedUpLists.pdb
+C:\Users\Marpyl\source\repos\MidExamPreparation\MixedUpLists\obj\Debug\netcoreapp2.1\MixedUpLists.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\MixedUpLists\obj\Debug\netcoreapp2.1\MixedUpLists.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\MixedUpLists\obj\Debug\netcoreapp2.1\MixedUpLists.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\MidExamPreparation\MixedUpLists\obj\Debug\netcoreapp2.1\MixedUpLists.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\MixedUpLists\obj\Debug\netcoreapp2.1\MixedUpLists.pdb
