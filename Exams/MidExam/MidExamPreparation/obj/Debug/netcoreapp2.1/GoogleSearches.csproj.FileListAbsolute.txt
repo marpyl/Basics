@@ -1,0 +1,11 @@
+C:\Users\Marpyl\source\repos\MidExamPreparation\MidExamPreparation\bin\Debug\netcoreapp2.1\GoogleSearches.deps.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\MidExamPreparation\bin\Debug\netcoreapp2.1\GoogleSearches.runtimeconfig.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\MidExamPreparation\bin\Debug\netcoreapp2.1\GoogleSearches.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\MidExamPreparation\bin\Debug\netcoreapp2.1\GoogleSearches.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\MidExamPreparation\bin\Debug\netcoreapp2.1\GoogleSearches.pdb
+C:\Users\Marpyl\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\netcoreapp2.1\GoogleSearches.csprojAssemblyReference.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\netcoreapp2.1\GoogleSearches.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\netcoreapp2.1\GoogleSearches.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\netcoreapp2.1\GoogleSearches.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\netcoreapp2.1\GoogleSearches.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\netcoreapp2.1\GoogleSearches.pdb
