@@ -1,0 +1,10 @@
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftuniReception\bin\Debug\netcoreapp2.1\SoftuniReception.deps.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftuniReception\bin\Debug\netcoreapp2.1\SoftuniReception.runtimeconfig.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftuniReception\bin\Debug\netcoreapp2.1\SoftuniReception.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftuniReception\bin\Debug\netcoreapp2.1\SoftuniReception.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftuniReception\bin\Debug\netcoreapp2.1\SoftuniReception.pdb
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftuniReception\obj\Debug\netcoreapp2.1\SoftuniReception.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftuniReception\obj\Debug\netcoreapp2.1\SoftuniReception.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftuniReception\obj\Debug\netcoreapp2.1\SoftuniReception.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftuniReception\obj\Debug\netcoreapp2.1\SoftuniReception.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftuniReception\obj\Debug\netcoreapp2.1\SoftuniReception.pdb
