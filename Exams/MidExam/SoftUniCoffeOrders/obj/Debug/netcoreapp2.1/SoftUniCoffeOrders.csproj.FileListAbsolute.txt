@@ -1,0 +1,10 @@
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftUniCoffeOrders\bin\Debug\netcoreapp2.1\SoftUniCoffeOrders.deps.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftUniCoffeOrders\bin\Debug\netcoreapp2.1\SoftUniCoffeOrders.runtimeconfig.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftUniCoffeOrders\bin\Debug\netcoreapp2.1\SoftUniCoffeOrders.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftUniCoffeOrders\bin\Debug\netcoreapp2.1\SoftUniCoffeOrders.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftUniCoffeOrders\bin\Debug\netcoreapp2.1\SoftUniCoffeOrders.pdb
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftUniCoffeOrders\obj\Debug\netcoreapp2.1\SoftUniCoffeOrders.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftUniCoffeOrders\obj\Debug\netcoreapp2.1\SoftUniCoffeOrders.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftUniCoffeOrders\obj\Debug\netcoreapp2.1\SoftUniCoffeOrders.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftUniCoffeOrders\obj\Debug\netcoreapp2.1\SoftUniCoffeOrders.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\SoftUniCoffeOrders\obj\Debug\netcoreapp2.1\SoftUniCoffeOrders.pdb
