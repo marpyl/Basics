@@ -1,0 +1,10 @@
+C:\Users\Marpyl\source\repos\MidExamPreparation\SweetDessert\bin\Debug\netcoreapp2.1\SweetDessert.deps.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\SweetDessert\bin\Debug\netcoreapp2.1\SweetDessert.runtimeconfig.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\SweetDessert\bin\Debug\netcoreapp2.1\SweetDessert.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\MidExamPreparation\SweetDessert\bin\Debug\netcoreapp2.1\SweetDessert.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\SweetDessert\bin\Debug\netcoreapp2.1\SweetDessert.pdb
+C:\Users\Marpyl\source\repos\MidExamPreparation\SweetDessert\obj\Debug\netcoreapp2.1\SweetDessert.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\SweetDessert\obj\Debug\netcoreapp2.1\SweetDessert.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\MidExamPreparation\SweetDessert\obj\Debug\netcoreapp2.1\SweetDessert.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\MidExamPreparation\SweetDessert\obj\Debug\netcoreapp2.1\SweetDessert.dll
+C:\Users\Marpyl\source\repos\MidExamPreparation\SweetDessert\obj\Debug\netcoreapp2.1\SweetDessert.pdb
