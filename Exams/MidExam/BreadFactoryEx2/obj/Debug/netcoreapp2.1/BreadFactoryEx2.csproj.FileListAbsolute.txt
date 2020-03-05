@@ -1,0 +1,11 @@
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\BreadFactoryEx2\bin\Debug\netcoreapp2.1\BreadFactoryEx2.deps.json
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\BreadFactoryEx2\bin\Debug\netcoreapp2.1\BreadFactoryEx2.runtimeconfig.json
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\BreadFactoryEx2\bin\Debug\netcoreapp2.1\BreadFactoryEx2.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\BreadFactoryEx2\bin\Debug\netcoreapp2.1\BreadFactoryEx2.dll
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\BreadFactoryEx2\bin\Debug\netcoreapp2.1\BreadFactoryEx2.pdb
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\BreadFactoryEx2\obj\Debug\netcoreapp2.1\BreadFactoryEx2.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\BreadFactoryEx2\obj\Debug\netcoreapp2.1\BreadFactoryEx2.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\BreadFactoryEx2\obj\Debug\netcoreapp2.1\BreadFactoryEx2.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\BreadFactoryEx2\obj\Debug\netcoreapp2.1\BreadFactoryEx2.dll
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\BreadFactoryEx2\obj\Debug\netcoreapp2.1\BreadFactoryEx2.pdb
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\BreadFactoryEx2\obj\Debug\netcoreapp2.1\BreadFactoryEx2.csprojAssemblyReference.cache
