@@ -1,0 +1,10 @@
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\CookingFactoryEx3\bin\Debug\netcoreapp2.1\CookingFactoryEx3.deps.json
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\CookingFactoryEx3\bin\Debug\netcoreapp2.1\CookingFactoryEx3.runtimeconfig.json
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\CookingFactoryEx3\bin\Debug\netcoreapp2.1\CookingFactoryEx3.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\CookingFactoryEx3\bin\Debug\netcoreapp2.1\CookingFactoryEx3.dll
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\CookingFactoryEx3\bin\Debug\netcoreapp2.1\CookingFactoryEx3.pdb
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\CookingFactoryEx3\obj\Debug\netcoreapp2.1\CookingFactoryEx3.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\CookingFactoryEx3\obj\Debug\netcoreapp2.1\CookingFactoryEx3.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\CookingFactoryEx3\obj\Debug\netcoreapp2.1\CookingFactoryEx3.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\CookingFactoryEx3\obj\Debug\netcoreapp2.1\CookingFactoryEx3.dll
+C:\Users\Marpyl\source\repos\MidExamDemoMarch2019\CookingFactoryEx3\obj\Debug\netcoreapp2.1\CookingFactoryEx3.pdb
