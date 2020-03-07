@@ -1,0 +1,10 @@
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\ChristmasSpiritMidExam2018\bin\Debug\netcoreapp2.1\ChristmasSpiritMidExam2018.deps.json
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\ChristmasSpiritMidExam2018\bin\Debug\netcoreapp2.1\ChristmasSpiritMidExam2018.runtimeconfig.json
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\ChristmasSpiritMidExam2018\bin\Debug\netcoreapp2.1\ChristmasSpiritMidExam2018.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\ChristmasSpiritMidExam2018\bin\Debug\netcoreapp2.1\ChristmasSpiritMidExam2018.dll
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\ChristmasSpiritMidExam2018\bin\Debug\netcoreapp2.1\ChristmasSpiritMidExam2018.pdb
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\ChristmasSpiritMidExam2018\obj\Debug\netcoreapp2.1\ChristmasSpiritMidExam2018.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\ChristmasSpiritMidExam2018\obj\Debug\netcoreapp2.1\ChristmasSpiritMidExam2018.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\ChristmasSpiritMidExam2018\obj\Debug\netcoreapp2.1\ChristmasSpiritMidExam2018.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\ChristmasSpiritMidExam2018\obj\Debug\netcoreapp2.1\ChristmasSpiritMidExam2018.dll
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\ChristmasSpiritMidExam2018\obj\Debug\netcoreapp2.1\ChristmasSpiritMidExam2018.pdb
