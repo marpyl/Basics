@@ -1,0 +1,11 @@
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\DongRoom\bin\Debug\netcoreapp2.1\DongRoom.deps.json
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\DongRoom\bin\Debug\netcoreapp2.1\DongRoom.runtimeconfig.json
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\DongRoom\bin\Debug\netcoreapp2.1\DongRoom.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\DongRoom\bin\Debug\netcoreapp2.1\DongRoom.dll
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\DongRoom\bin\Debug\netcoreapp2.1\DongRoom.pdb
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\DongRoom\obj\Debug\netcoreapp2.1\DongRoom.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\DongRoom\obj\Debug\netcoreapp2.1\DongRoom.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\DongRoom\obj\Debug\netcoreapp2.1\DongRoom.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\DongRoom\obj\Debug\netcoreapp2.1\DongRoom.dll
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\DongRoom\obj\Debug\netcoreapp2.1\DongRoom.pdb
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\DongRoom\obj\Debug\netcoreapp2.1\DongRoom.csprojAssemblyReference.cache
