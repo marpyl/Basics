@@ -1,0 +1,10 @@
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\PasswordValidator\bin\Debug\netcoreapp2.1\AddSubstract.deps.json
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\PasswordValidator\bin\Debug\netcoreapp2.1\AddSubstract.runtimeconfig.json
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\PasswordValidator\bin\Debug\netcoreapp2.1\AddSubstract.runtimeconfig.dev.json
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\PasswordValidator\bin\Debug\netcoreapp2.1\AddSubstract.dll
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\PasswordValidator\bin\Debug\netcoreapp2.1\AddSubstract.pdb
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\PasswordValidator\obj\Debug\netcoreapp2.1\AddSubstract.csproj.CoreCompileInputs.cache
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\PasswordValidator\obj\Debug\netcoreapp2.1\AddSubstract.AssemblyInfoInputs.cache
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\PasswordValidator\obj\Debug\netcoreapp2.1\AddSubstract.AssemblyInfo.cs
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\PasswordValidator\obj\Debug\netcoreapp2.1\AddSubstract.dll
+C:\Users\Marpyl\source\repos\PreparationMidExamTF\PasswordValidator\obj\Debug\netcoreapp2.1\AddSubstract.pdb
